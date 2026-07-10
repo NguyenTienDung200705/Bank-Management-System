@@ -33,7 +33,7 @@ export default function Sidebar({ mobileOpen, onClose }) {
         </Box>
         <Box sx={{ minWidth: 0 }}>
           <Typography sx={{ fontFamily: '"Source Serif 4", serif', fontWeight: 700, fontSize: 18, lineHeight: 1.2 }}>
-            VietTrust Bank
+            KiemDinh Bank
           </Typography>
           <Typography sx={{ fontSize: 11, opacity: 0.6, letterSpacing: "0.03em" }}>
             SAVINGS &amp; LOAN SYSTEM
@@ -99,7 +99,7 @@ export default function Sidebar({ mobileOpen, onClose }) {
 
       <Divider sx={{ borderColor: "rgba(255,255,255,0.1)" }} />
       <Box sx={{ px: 3, py: 2 }}>
-        <Typography sx={{ fontSize: 11, opacity: 0.45 }}>© 2026 VietTrust Bank</Typography>
+        <Typography sx={{ fontSize: 11, opacity: 0.45 }}>© 2026 KiemDinh Bank</Typography>
       </Box>
     </Box>
   );

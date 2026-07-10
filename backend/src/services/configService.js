@@ -2,7 +2,7 @@ const { SystemConfig } = require("../models");
 const { AppError } = require("../middleware/errorHandler");
 
 const DEFAULTS = [
-  { config_key: "BANK_NAME", config_value: "VietTrust Bank", label: "Tên ngân hàng", data_type: "STRING" },
+  { config_key: "BANK_NAME", config_value: "KiemDinh Bank", label: "Tên ngân hàng", data_type: "STRING" },
   { config_key: "BANK_SLOGAN", config_value: "Tin cậy - Bền vững - Phát triển", label: "Khẩu hiệu", data_type: "STRING" },
   { config_key: "MAX_LOGIN_ATTEMPTS", config_value: "5", label: "Số lần đăng nhập sai tối đa", data_type: "NUMBER" },
   { config_key: "MIN_PASSWORD_LENGTH", config_value: "8", label: "Độ dài mật khẩu tối thiểu", data_type: "NUMBER" },

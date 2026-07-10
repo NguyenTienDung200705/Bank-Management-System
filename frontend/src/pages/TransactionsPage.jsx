@@ -99,7 +99,7 @@ function ReceiptDialog({ tx, onClose }) {
       <DialogContent>
         <Box sx={{ textAlign: "center", mb: 2 }}>
           <Typography sx={{ fontFamily: '"Source Serif 4", serif', fontWeight: 700, color: "primary.dark" }}>
-            VietTrust Bank
+            KiemDinh Bank
           </Typography>
           <Typography variant="caption" color="text.secondary">
             Biên lai giao dịch điện tử

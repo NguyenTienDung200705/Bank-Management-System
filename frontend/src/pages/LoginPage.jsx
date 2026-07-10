@@ -117,7 +117,7 @@ export default function LoginPage() {
             <AccountBalanceIcon sx={{ color: "primary.dark" }} />
           </Box>
           <Typography sx={{ fontFamily: '"Source Serif 4", serif', fontWeight: 700, fontSize: 22 }}>
-            VietTrust Bank
+            KiemDinh Bank
           </Typography>
         </Stack>
 
@@ -132,7 +132,7 @@ export default function LoginPage() {
         </Box>
 
         <Typography sx={{ position: "relative", fontSize: 12, opacity: 0.45 }}>
-          © 2026 VietTrust Bank — Bảo mật &amp; Tin cậy
+          © 2026 KiemDinh Bank — Bảo mật &amp; Tin cậy
         </Typography>
       </Box>
 
@@ -166,7 +166,7 @@ export default function LoginPage() {
               <AccountBalanceIcon sx={{ color: "primary.dark", fontSize: 20 }} />
             </Box>
             <Typography sx={{ fontFamily: '"Source Serif 4", serif', fontWeight: 700, fontSize: 18 }}>
-              VietTrust Bank
+              KiemDinh Bank
             </Typography>
           </Box>
 

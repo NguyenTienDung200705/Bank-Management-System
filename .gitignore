@@ -1,0 +1,106 @@
+```gitignore
+# ==========================
+# Dependencies
+# ==========================
+node_modules/
+jspm_packages/
+bower_components/
+
+# ==========================
+# Build
+# ==========================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+coverage/
+.cache/
+.tmp/
+.temp/
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Cache
+# ==========================
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.cache-loader/
+
+# ==========================
+# Package Managers
+# ==========================
+.pnp
+.pnp.js
+
+# ==========================
+# TypeScript
+# ==========================
+*.tsbuildinfo
+
+# ==========================
+# Database
+# ==========================
+*.sqlite
+*.sqlite3
+*.db
+
+# ==========================
+# Uploads
+# ==========================
+uploads/
+public/uploads/
+storage/
+
+# ==========================
+# Runtime Files
+# ==========================
+*.pid
+*.seed
+*.pid.lock
+
+# ==========================
+# Test
+# ==========================
+coverage/
+.nyc_output/
+
+# ==========================
+# Misc
+# ==========================
+*.swp
+*.swo
+*~
+```
